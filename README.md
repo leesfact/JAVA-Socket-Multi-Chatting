@@ -47,13 +47,10 @@
 ![image](https://user-images.githubusercontent.com/121993153/226783353-cdc75549-8268-4ea7-8067-c5ceff44c43b.png)
 
 ### 실행 UI (로그인), 입장 UI
-![image](https://user-images.githubusercontent.com/121993153/226783556-d7cc5937-d3fd-4b93-81dd-8a704a117fc9.png)
-![image](https://user-images.githubusercontent.com/121993153/226783673-2ced497e-e9a1-42c2-974c-88fd5fb3a551.png)
+![image](https://user-images.githubusercontent.com/121993153/226792948-e5258bba-c389-46b7-afa7-a75a4206f349.png)
 
 ### 채팅방 생성 UI (admin, user)
-![image](https://user-images.githubusercontent.com/121993153/226783824-042b2f83-5a49-43e3-b2b6-736bb3fb6f92.png)
-![image](https://user-images.githubusercontent.com/121993153/226784141-2616787a-057f-4b70-9b5a-a54763f64898.png)
-
+![image](https://user-images.githubusercontent.com/121993153/226793156-255e1082-b853-4908-a617-902eb4db4d3b.png)
 
 ### 채팅방 입장 완료 UI
 ![image](https://user-images.githubusercontent.com/121993153/226784671-c878338a-2929-45fd-8a23-6e34bdaf2a3d.png)
