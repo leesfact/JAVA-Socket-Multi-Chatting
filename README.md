@@ -54,9 +54,6 @@
 ![image](https://user-images.githubusercontent.com/121993153/226783824-042b2f83-5a49-43e3-b2b6-736bb3fb6f92.png)
 ![image](https://user-images.githubusercontent.com/121993153/226784141-2616787a-057f-4b70-9b5a-a54763f64898.png)
 
-### 채팅방 UI (admin , user)
-![image](https://user-images.githubusercontent.com/121993153/226783928-48b0b93d-ebac-45f2-afea-b56da7ce35af.png)
-![image](https://user-images.githubusercontent.com/121993153/226784259-df533bef-7141-497a-9095-784c6171f687.png)
 
 ### 채팅방 입장 완료 UI
 ![image](https://user-images.githubusercontent.com/121993153/226784671-c878338a-2929-45fd-8a23-6e34bdaf2a3d.png)
