@@ -64,8 +64,14 @@
 ### 채팅 구현 UI
 ![image](https://user-images.githubusercontent.com/121993153/226784985-12464477-ed6d-4c05-b1be-c3641fce0731.png)
 
+### 방장이 나갔을 때
+![image](https://user-images.githubusercontent.com/121993153/226785141-904f4016-bb62-4b83-be0d-bd73da3683ab.png)
 
+### 방장이 나갔을 때 ( 유저도 같이 나가짐 )
+![image](https://user-images.githubusercontent.com/121993153/226785251-6bb148e1-cf80-4aaa-b71b-8644efe720ba.png)
 
+### 유저만 나갔을 때 ( 방장은 방에 유지 )
+![image](https://user-images.githubusercontent.com/121993153/226785468-791742ca-35ef-4c4c-89b9-34cfac9f09e6.png)
 
 
 ### 기능
