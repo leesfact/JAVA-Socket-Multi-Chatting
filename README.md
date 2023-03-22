@@ -1,4 +1,4 @@
-# Socket-Multi-Chatting 프로그램 만들기
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Socket-Multi-Chatting+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%EB%A7%8C%EB%93%A4%EA%B8%B0)](https://git.io/typing-svg)
 
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -35,12 +35,14 @@
       - ClientRecive
 
 요구사항
-- 
-- 
--  
-- 
-- 
-- 
+- UI (Java Swing 으로 구현) - 로그인 UI, 채팅방 목록 UI, 채팅방 UI 
+- 로그인 (Admin), 방생성 시, 바로 입장
+- 로그인 (User), 채팅방 목록 생성
+- User 방 입장
+- Admin, User 방생성, 입장 메세지 출력
+- 유저간 채팅
+- 퇴장시, 메세지 출력 
+- 방장 퇴장시, 유저도 같이 퇴장, 유저 퇴장시, 유저만 방 퇴장
 -----------------------
 
 ### 서버 실행 UI
@@ -68,13 +70,15 @@
 ![image](https://user-images.githubusercontent.com/121993153/226785468-791742ca-35ef-4c4c-89b9-34cfac9f09e6.png)
 
 
-### 기능
-- 전체 선택
-- 전체 삭제
-
 
 -----------------------
 
 # 제작 후기
+
+Java를 공부하면서 가장 어려웠던 프로젝트였던거 같다. </br>
+
+실제로는 소켓통신 채팅프로그램을 세개 정도 만들었지만, java의 모든 개념을 이해하기에는 다소 부족한 점이 많은거 같다. </br>
+
+아래는 Socket-Multi-Chatting 프로그램을 학습하며 기록했던 자료이며, 해당 내용은 벨로그에서 자세히 확인하실 수 있습니다. </br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesfact&tag=project&color=black)](https://velog.io/@leesfact/AWS-BACK-DAY-40.-MultiChat-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
