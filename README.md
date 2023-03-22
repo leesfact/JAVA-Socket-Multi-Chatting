@@ -83,4 +83,4 @@
 
 # 제작 후기
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesfact&color=dark&tag=project)](https://github.com/leesfact/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesfact&tag=project&color=black)](https://velog.io/@leesfact/AWS-BACK-DAY-40.-MultiChat-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
