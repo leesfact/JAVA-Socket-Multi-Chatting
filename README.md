@@ -81,4 +81,4 @@ Java를 공부하면서 가장 어려웠던 프로젝트였던거 같다. </br>
 
 아래는 Socket-Multi-Chatting 프로그램을 학습하며 기록했던 자료이며, 해당 내용은 벨로그에서 자세히 확인하실 수 있습니다. </br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesfact&tag=project&color=black)](https://velog.io/@leesfact/AWS-BACK-DAY-40.-MultiChat-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesfact&tag=project&color=)](https://velog.io/@leesfact/AWS-BACK-DAY-40.-MultiChat-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
